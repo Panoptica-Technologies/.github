@@ -19,3 +19,13 @@ The result is **decision paralysis**: pressure and an unclear picture force impu
 > *"We are better today at collecting signals. I'm not sure we're any better at making sense of the signals we collect."*
 > — Fortune, on the UnitedHealthcare CEO shooting
 
+## The Solution — Watchtower
+ 
+**Agents built to think like the enemy.**
+ 
+Watchtower's agents are trained from the ground up on adversary behavior, tactics, and cultural context — so analysis captures the granular detail that generic models miss. Every output is explainable, letting an analyst trace back *why* an event happened in the first place.
+ 
+- **Think like the enemy** — agents modeled on adversary doctrine, TTPs, and behavior
+- **Cultural nuance** — the intricate details that make analysis granular and trustworthy
+- **Explainable by design** — traceable chains of reasoning, not black-box verdicts
+> Analyses that are explainable and models trained *"to think like the enemy"* are what make intelligence valuable — the moat Panoptica is built to own.
