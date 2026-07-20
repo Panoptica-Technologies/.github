@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile/banner.svg" alt="PANOPTICA" width="100%">
+<img src="profile/banner.PNG" alt="PANOPTICA" width="100%">
 
 <br>
 
