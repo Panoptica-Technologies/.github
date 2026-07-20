@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="profile/banner.PNG" alt="PANOPTICA" width="100%">
-
 <br>
 
 **SECURING AMERICAN INTERESTS ABROAD AND AT HOME**
