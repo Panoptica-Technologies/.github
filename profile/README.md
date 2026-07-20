@@ -3,7 +3,7 @@
  
 ### Securing American Interests Abroad and at Home
  
-**Watchtower** — an agentic AI platform that aggregates early signals and turns raw indicators into explainable, decision-ready intelligence.
+**Watchtower** - an agentic AI platform that aggregates early signals and turns raw indicators into explainable, decision-ready intelligence.
 
 ## The Problem
  
@@ -23,9 +23,9 @@ The result is **decision paralysis**: pressure and an unclear picture force impu
  
 **Agents built to think like the enemy.**
  
-Watchtower's agents are trained from the ground up on adversary behavior, tactics, and cultural context — so analysis captures the granular detail that generic models miss. Every output is explainable, letting an analyst trace back *why* an event happened in the first place.
+Watchtower's agents are trained from the ground up on adversary behavior, tactics, and cultural context - so analysis captures the granular detail that generic models miss. Every output is explainable, letting an analyst trace back *why* an event happened in the first place.
  
-- **Think like the enemy** — agents modeled on adversary doctrine, TTPs, and behavior
-- **Cultural nuance** — the intricate details that make analysis granular and trustworthy
-- **Explainable by design** — traceable chains of reasoning, not black-box verdicts
-> Analyses that are explainable and models trained *"to think like the enemy"* are what make intelligence valuable — the moat Panoptica is built to own.
+- **Think like the enemy** -  agents modeled on adversary doctrine, TTPs, and behavior
+- **Cultural nuance** - the intricate details that make analysis granular and trustworthy
+- **Explainable by design** - traceable chains of reasoning, not black-box verdicts
+> Analyses that are explainable and models trained *"to think like the enemy"* are what make intelligence valuable - the moat Panoptica is built to own.
